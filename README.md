@@ -26,8 +26,8 @@ We take interesting steps to maximize insight into the data set, uncover underly
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
+- [numpy](http://www.numpy.org/)
+- [pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
