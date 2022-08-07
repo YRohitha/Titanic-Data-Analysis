@@ -1,7 +1,26 @@
-## Titanic-Data-Analysis
+## Titanic-Data-Analysis 
 
-Exploratory Data Analysis on Titanic Data set
+#### Predict Survival Outcomes from the 1912 Titanic disaster based on each passenger's features, such as sex and age.
 
+
+### Description
+
+#### Goal and Aim of the Project: 
+We take interesting steps to maximize insight into the data set, uncover underlying structure, detect outliers and anomalies and test underlying assumptions, by answering to the below questions:
+
+* What is the survival rate of this disaster?
+* Are females more likely to survive males?
+* Is there a certain age group more likely to survive other age groups?
+* Are childern and mothers more likely to be survived than others?
+* Did people pay higher fare tend to survive?
+* Are there difference of survival rate between differnt ticket classes?
+* Who will more likely to survive, families or sigletons?
+
+#### Feature Scope: Build a Machine Learning Model to make better predictions. 
+
+- [ ] Understand the impact of bias-variance tradeoff. 
+- [ ] Understand what factors are important : accuracy, precision, recall. Calculate F1 score.
+- [ ] Choose and Improve on ML model selection.
 
 ### Install Setup
 
